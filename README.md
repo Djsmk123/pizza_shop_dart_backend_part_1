@@ -22,5 +22,5 @@ dart pub global activate dart_frog_cli
 dart_frog dev 
 ```
 
-## Read complete tutorial : [Dev.to](https://dev.to/djsmk123/flutter-notes-appd-apps-4om7-temp-slug-2950924)
+## Read complete tutorial : [Dev.to](https://dev.to/djsmk123/build-full-stack-application-using-flutter-ft-dart-frog-and-mongodb-part-1-1e2k)
 
